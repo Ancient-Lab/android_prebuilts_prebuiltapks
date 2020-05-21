@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="at.bitfire.davdroid">
+        <permission name="org.dmfs.permission.READ_TASKS"/>
+        <permission name="org.dmfs.permission.WRITE_TASKS"/>
+    </privapp-permissions>
+</permissions>

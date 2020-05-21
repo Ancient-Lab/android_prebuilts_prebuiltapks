@@ -6,11 +6,13 @@ PRODUCT_PACKAGES += \
     com.google.android.maps.xml \
     com.google.android.maps.jar \
     FakeStore \
-    FDroid \
-    FDroidPrivilegedExtension \
+    AuroraDroid \
     GmsCore \
     GsfProxy \
     microg-a5k \
     MozillaNlpBackend \
-    NominatimNlpBackend
+    NominatimNlpBackend \
+    SoundPicker \
+    DavX \
+    SimpleCalendar
 
